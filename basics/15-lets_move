@@ -1,2 +1,2 @@
 #!/bin/bash
-DEST_DIR=/tmp/u.
+DEST_DIR=/tmp/test_mv
