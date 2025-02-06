@@ -1,2 +1,2 @@
 #!/bin/bash
-DEST_DIR=/tmp/test_mv
+rm -rf /tmp/test_mv
