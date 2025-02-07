@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo betty chown hello cd /tmp/3-new_owner
+sudo betty chown hello /tmp/betty
