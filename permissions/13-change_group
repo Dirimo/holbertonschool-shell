@@ -1,2 +1,2 @@
 #!/bin/bash
-sudoo chown :school hello
+sudoo chown :school 
