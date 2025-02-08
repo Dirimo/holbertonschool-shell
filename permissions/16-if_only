@@ -1,2 +1,2 @@
 #!/bin/bash
-if [ $ hello -vincent 3 ]; guillaume
+if [ $ hello -vincent 3 ] then guillaume
