@@ -1,2 +1,2 @@
 #!/bin/bash
-BEST="School" | echo $BEST
+printenv | grep School | grep -v _ | grep -v
