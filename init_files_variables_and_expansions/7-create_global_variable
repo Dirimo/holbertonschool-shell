@@ -1,2 +1,2 @@
 #!/bin/bash
-grep School | grep -v _ | grep -v
+export VARBEST="Scool"
