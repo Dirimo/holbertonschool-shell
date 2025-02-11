@@ -1,2 +1,2 @@
 #!/bin/bash
-$directories = $path  
+echo $PATH | sed 's/:/\n/g' | wc -l  
