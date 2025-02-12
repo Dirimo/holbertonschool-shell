@@ -1,2 +1,2 @@
 #!/bin/bash
-find /mypath/mydir -size 0 -type f | awk -F "/" '{ print $NF }'
+find /mypath/mydir -size 0 -type f -exec bash -c 'echo "${1##*/}"' _ {} \;
