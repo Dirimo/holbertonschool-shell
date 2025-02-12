@@ -1,2 +1,2 @@
 #!/bin/bash
-find /mypath/mydir -size 0 -type f -exec bash -c 'echo "${1##*/}"' _ {} \;
+find /mypath/mydir -size 0 -type f -exec bash -c 'echo "${1##*/}"' _ {} \'
